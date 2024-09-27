@@ -1,0 +1,14 @@
+REST API - JSON
+
+GET /users - HTML document render -- means for broweser
+//api throw json data
+GET api/users - List all users  - done
+
+GET api/users/1- Get all the user with id1 - done 
+GET api/users/2- Get all the user with id2
+
+
+Post /users - create new user 
+
+Patch /users/1 - edit the user with id1 
+Delete /users/1 - Delete the user with id1 

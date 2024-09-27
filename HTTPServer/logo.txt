@@ -8,3 +8,6 @@
 1726761016645: GET /signup: New User req
 1726761212945: GET /signup: New User req
 1726761261792: GET /signup: New User req
+1727014052257: GET /: New User req
+1727014064690: GET /about: New User req
+1727015142125: GET /: New User req
